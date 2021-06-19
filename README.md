@@ -15,5 +15,9 @@ different cattegories, according to their theme:
 
 6 - other.
 
-The file **MyTIkz.tex** is an all-in-one tex file holding the code for every picture, and its compilation results in the **MyTikz.pdf**.
+The file **MyTikz.tex** is an all-in-one tex file holding the code for every picture, and its compilation results in the **MyTikz.pdf**.
 The .tex file is commented so that, should you be insterested in one of my drawings, you can simply open it and harvest the image of interest's source code.
+
+Take a look at a couple of my favorites:
+
+![faves-1](https://user-images.githubusercontent.com/85200523/122643920-d8030a00-d0e8-11eb-9af9-1315f7203f3d.png)
